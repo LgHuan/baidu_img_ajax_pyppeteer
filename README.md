@@ -1,0 +1,2 @@
+# baidu_img_ajax_pyppeteer
+谷歌chrome官方无头框架puppeteer的python版本pyppeteer，用pyppeteer实现滑动条自动下拉，一次性爬取多页的百度的ajax图片。
